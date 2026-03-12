@@ -7,8 +7,6 @@
 
 <div size='20px'> Hi! Thank you for taking the time to view my GitHub Profile
 </div>
-
-<h2> About Me </h2>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
